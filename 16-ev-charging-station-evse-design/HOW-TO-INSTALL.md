@@ -1,6 +1,6 @@
 # 16-ev-charging-station-evse-design — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Engineers** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Engineers** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/16-ev-charging-station-evse-design.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Engineers
+© HL — 57 Agents for US Engineers

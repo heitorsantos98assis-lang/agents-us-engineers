@@ -1,6 +1,6 @@
 # 01-reinforced-concrete-design-aci-318 — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Engineers** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Engineers** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/01-reinforced-concrete-design-aci-318.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Engineers
+© HL — 57 Agents for US Engineers

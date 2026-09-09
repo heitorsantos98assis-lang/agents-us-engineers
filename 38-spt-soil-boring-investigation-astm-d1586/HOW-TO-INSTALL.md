@@ -1,6 +1,6 @@
 # 38-spt-soil-boring-investigation-astm-d1586 — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Engineers** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Engineers** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/38-spt-soil-boring-investigation-astm-d1586.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Engineers
+© HL — 57 Agents for US Engineers

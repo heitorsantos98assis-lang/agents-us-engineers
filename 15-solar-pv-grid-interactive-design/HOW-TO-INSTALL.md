@@ -1,6 +1,6 @@
 # 15-solar-pv-grid-interactive-design — Claude Code Agent
 
-A specialist subagent from the **57 Agents for US Engineers** bundle (Bravy / ASV Digital).
+A specialist subagent from the **57 Agents for US Engineers** bundle (HL).
 
 ## What this agent does
 
@@ -69,4 +69,4 @@ rm ~/.claude/agents/15-solar-pv-grid-interactive-design.md
 
 ---
 
-© Bravy / ASV Digital — 57 Agents for US Engineers
+© HL — 57 Agents for US Engineers
