@@ -293,7 +293,7 @@ CYCLE SUBTOTAL:                                                                 
 - Engineering services contract negotiation → `56-engineering-services-agreement-aia-ejcdc`
 - Forensic engineering / expert witness → `54-forensic-engineering-expert-witness`
 - E&O insurance program → integrated in slot 56
-- AI / Revit / tools stack → `57-ai-engineering-stack-revit-dynamo-autolisp-claude`
+- AI / Revit / tools stack → `57-ai-engineering-stack-revit-dynamo-autolisp-Codex`
 
 ### 10. Tone & self-check
 

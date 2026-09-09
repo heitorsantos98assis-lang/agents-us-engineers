@@ -1,10 +1,10 @@
-# 01-reinforced-concrete-design-aci-318 — Codex Agent
+# 57-ai-engineering-stack-revit-dynamo-autolisp-Codex — Codex Agent
 
 A specialist subagent from the **57 Agents for US Engineers** bundle (HL).
 
 ## What this agent does
 
-See `01-reinforced-concrete-design-aci-318.md` for the full description, frameworks, reference tables, and operating flow.
+See `57-ai-engineering-stack-revit-dynamo-autolisp-AGENTS.md` for the full description, frameworks, reference tables, and operating flow.
 
 ## Installation
 
@@ -18,18 +18,18 @@ See `01-reinforced-concrete-design-aci-318.md` for the full description, framewo
 **1. Unzip this archive:**
 
 ```bash
-unzip 01-reinforced-concrete-design-aci-318.zip
+unzip 57-ai-engineering-stack-revit-dynamo-autolisp-Codex.zip
 ```
 
 **2. Copy the agent into your Codex project:**
 
 ```bash
 mkdir -p .codex/agents
-cp 01-reinforced-concrete-design-aci-318.md .codex/agents/
+cp 57-ai-engineering-stack-revit-dynamo-autolisp-AGENTS.md .codex/agents/
 
 # OR install globally for all projects:
 mkdir -p .codex/agents/
-cp 01-reinforced-concrete-design-aci-318.md .codex/agents/
+cp 57-ai-engineering-stack-revit-dynamo-autolisp-AGENTS.md .codex/agents/
 ```
 
 **3. Restart Codex** (or run `/agents` to refresh).
@@ -37,13 +37,13 @@ cp 01-reinforced-concrete-design-aci-318.md .codex/agents/
 **4. Invoke the agent.** Just describe your task — Codex will pick this subagent automatically when relevant, or call it explicitly:
 
 ```
-Use the reinforced-concrete-design-aci-318 subagent to ...
+Use the ai-engineering-stack-revit-dynamo-autolisp-Codex subagent to ...
 ```
 
 ## Verifying installation
 
 ```bash
-ls .codex/agents/   # should list 01-reinforced-concrete-design-aci-318.md
+ls .codex/agents/   # should list 57-ai-engineering-stack-revit-dynamo-autolisp-AGENTS.md
 # OR
 ls .codex/agents/ # for global install
 ```
@@ -57,9 +57,9 @@ When a new version is released, re-run the unzip + copy steps above. The new fil
 ## Uninstall
 
 ```bash
-rm .codex/agents/01-reinforced-concrete-design-aci-318.md
+rm .codex/agents/57-ai-engineering-stack-revit-dynamo-autolisp-AGENTS.md
 # OR
-rm .codex/agents/01-reinforced-concrete-design-aci-318.md
+rm .codex/agents/57-ai-engineering-stack-revit-dynamo-autolisp-AGENTS.md
 ```
 
 ## Support
